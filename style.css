@@ -1,0 +1,23 @@
+body {
+    background-color:black;
+    color:white;
+}
+
+.main-div {
+    margin: auto;
+    text-align: center;
+    width: 500px;
+    margin-top:30vh;
+}
+
+button {
+    margin: 10px;
+}
+
+.btn-huge {
+    font-size: 100px;
+}
+
+.btn-small {
+    font-size: 10px;
+}
